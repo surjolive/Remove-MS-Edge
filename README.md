@@ -4,6 +4,8 @@
 
 # Remove Microsoft Edge
 
+![Uninstall Microsoft Edge easily](docs/uninstall-edge.svg)
+
 Remove the Microsoft Edge application from Windows 10 and Windows 11 with a small administrator-run utility. The project includes executable, batch, and source-code options so you can choose the level of control you need.
 
 > **Important:** Removing Edge is a system change. Create a restore point or backup first, close Edge and other Microsoft apps, and make sure Windows is fully updated before running the remover.
